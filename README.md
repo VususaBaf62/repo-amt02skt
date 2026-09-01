@@ -1,1 +1,3 @@
-# repo-amt02skt
+﻿# repo-amt02skt
+
+Initialized repository.

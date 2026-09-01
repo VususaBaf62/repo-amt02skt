@@ -1,3 +1,3 @@
 ﻿# repo-amt02skt
 
-Initialized repository.
+Repository initialized and configured.
